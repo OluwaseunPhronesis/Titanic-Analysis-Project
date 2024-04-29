@@ -1,11 +1,14 @@
 # Titanic-Analysis-Project
 The Project is a comprehensive analysis of the Titanic passenger data to derive insights into survival rates, passenger demographics, and other relevant factors. The analysis was conducted using Microsoft Excel, with a focus on accuracy, data visualization, and actionable insights.
 
+The project was done with a group and  together we, honed essential soft skills like collaboration and teamwork through practice session 
+
 ## Objective
 To analyze the Titanic dataset and extract insights regarding passenger survival rates, demographics, and other factors using Excel.
 
 ### Data Dictionary for the Dataset: 
-https://github.com/OluwaseunPhronesis/Titanic-Analysis-Project/blob/main/Titanic%20Dataset%20.xlsx
+
+![This is a table](https://github.com/OluwaseunPhronesis/Titanic-Analysis-Project/blob/main/Titanic%20Dataset%20.xlsx)
 
 • PassengerId: A unique identifier for each passenger
 
@@ -49,7 +52,7 @@ The dataset was cleaned to handle missing values and inconsistencies. Columns su
 ### Embarked Port Analysis:
 •	Survival Rates by Port: Passengers embarking from Southampton had the highest survival rate at 25%, followed by Cherbourg at 10%, and Queenstown at 3%.
 
-https://github.com/OluwaseunPhronesis/Titanic-Analysis-Project/blob/main/Titanic%20Dashboard%20.jpg
+![This is an image](https://github.com/OluwaseunPhronesis/Titanic-Analysis-Project/blob/main/Titanic%20Dashboard%20.jpg)
 
 ## Recommendations: 
  Based on the insights derived from the analysis, the following recommendations are proposed:

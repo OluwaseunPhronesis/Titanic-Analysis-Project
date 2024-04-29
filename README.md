@@ -1,7 +1,7 @@
 # Titanic-Analysis-Project
 The Project is a comprehensive analysis of the Titanic passenger data to derive insights into survival rates, passenger demographics, and other relevant factors. The analysis was conducted using Microsoft Excel, with a focus on accuracy, data visualization, and actionable insights.
 
-The project was done with a group and  together we, honed essential soft skills like collaboration and teamwork through practice session 
+The project was done with group and together we, honed essential soft skills like collaboration and teamwork through practice sessions.
 
 ## Objective
 To analyze the Titanic dataset and extract insights regarding passenger survival rates, demographics, and other factors using Excel.

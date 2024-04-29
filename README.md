@@ -49,6 +49,8 @@ The dataset was cleaned to handle missing values and inconsistencies. Columns su
 ### Embarked Port Analysis:
 •	Survival Rates by Port: Passengers embarking from Southampton had the highest survival rate at 25%, followed by Cherbourg at 10%, and Queenstown at 3%.
 
+https://github.com/OluwaseunPhronesis/Titanic-Analysis-Project/blob/main/Titanic%20Dashboard%20.jpg
+
 ## Recommendations: 
  Based on the insights derived from the analysis, the following recommendations are proposed:
  

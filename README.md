@@ -4,16 +4,27 @@ The Project is a comprehensive analysis of the Titanic passenger data to derive 
 ## Objective
 To analyze the Titanic dataset and extract insights regarding passenger survival rates, demographics, and other factors using Excel.
 
-### Data Dictionary for the Dataset:
-• PassengerId: A unique identifier for each passenger.
-• Survived: Indicates whether the passenger survived (1) or not (0).
-• Pclass: Represents the passenger's class (1st, 2nd, or 3rd).
-• Name: The name of the passenger.
-• Sex: Gender of the passenger.
-• Age: Age of the passenger.
-• SibSp: Number of siblings or spouses aboard.
-• Parch: Number of parents or children aboard.
-• Ticket: Ticket number.
+### Data Dictionary for the Dataset: 
+https://github.com/OluwaseunPhronesis/Titanic-Analysis-Project/blob/main/Titanic%20Dataset%20.xlsx
+
+• PassengerId: A unique identifier for each passenger
+
+• Survived: Indicates whether the passenger survived (1) or not (0)
+
+• Pclass: Represents the passenger's class (1st, 2nd, or 3rd)
+
+• Name: The name of the passenger
+
+• Sex: Gender of the passenger
+
+• Age: Age of the passenger
+
+• SibSp: Number of siblings or spouses aboard
+
+• Parch: Number of parents or children aboard
+
+• Ticket: Ticket number
+
 • Fare: The fare paid for the ticket
 
 ### Data Preparation: 
